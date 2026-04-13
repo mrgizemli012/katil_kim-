@@ -287,25 +287,25 @@ header {
 	position: relative;
 	overflow: hidden;
 }
-
+/*RESİMLERRRRRRRRRRRRRRRRRRRRRRRRRRRRR RESİMLERİN YERRİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİ                                   */
 .image-container:nth-child(1) .project-image {
-	background-image: url('https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=800&h=1000&fit=crop');
+	background-image: url('https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/79a0/live/e027f5a0-7ca4-11ee-a503-4588075e3427.jpg.webp');  /*1.resim */
 }
 
 .image-container:nth-child(2) .project-image {
-	background-image: url('https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=1000&fit=crop');
+	background-image: url('https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=1000&fit=crop');/*2.resim */
 }
 
 .image-container:nth-child(3) .project-image {
-	background-image: url('https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?w=800&h=1000&fit=crop');
+	background-image: url('https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?w=800&h=1000&fit=crop');/*3.resim */
 }
 
 .image-container:nth-child(4) .project-image {
-	background-image: url('https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=800&h=1000&fit=crop');
+	background-image: url('https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=800&h=1000&fit=crop');/*4.resim */
 }
 
 .image-container:nth-child(5) .project-image {
-	background-image: url('https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?w=800&h=1000&fit=crop');
+	background-image: url('https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?w=800&h=1000&fit=crop');/*5.resim */
 }
 
 .right-panel {
@@ -556,11 +556,11 @@ header {
 	margin: 0 auto;
 	align-items: center;
 }
-
+/*RESİMLERRRRRRRRRRRRRRRRRRRRRRRRRRRRR RESİMLERİN YERRİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİ         2.                                   */
 .about-image {
 	position: relative;
 	aspect-ratio: 3/4;
-	background-image: url('https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=600&h=800&fit=crop');
+	background-image: url('https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/3362/live/26084e10-1b31-11ee-87d1-5feb7aae5bea.jpg.webp');/*DİĞER RESİM*/
 	background-size: cover;
 	background-position: center;
 	display: flex;
